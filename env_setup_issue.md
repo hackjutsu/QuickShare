@@ -15,11 +15,11 @@ vagrant reload
 
 ## 常见问题
 ### 报错姿势
-#### 不巧当的姿势 ❌
+#### 不巧当的姿势 
 - “跑不了”、“不能用”、“不行”、“还是不行”……
 - 模糊的电脑屏幕照片……
 
-#### 建议姿势 ✔️
+#### 建议姿势 
 - 操作系统：Windows还是macOS
 - 系统版本
 - Virtual Box 和 Vagrant 版本
@@ -32,15 +32,22 @@ vagrant reload
 - [CS504专用GitHub Issue](https://github.com/BitTigerInst/BitTiger-CS504-FAQ/issues)
 
 ### 从Virtual Box中打开虚拟机出错？
+- 不需要从Virtual Box界面里打开虚拟机
 
 ### VM not created
+- 删除Virtual Box中已有的Image，或者重新安装Virtual Box
 
 ### 图形界面不出来
+- https://github.com/BitTigerInst/BitTiger-CS504-FAQ/issues/1
 
 ### cannot access '/root/Development/'
+-  `vagrant reload`
 
 ### 在哪里安装IntelliJ？
+- 虚拟机中
 
 ### [Windows] requested address is not valid
+- https://github.com/BitTigerInst/BitTiger-CS504-FAQ/issues/2
 
-### [Windows] network inteface 没有选项
+### [Windows] network interface 没有选项
+- 安装最新版Virtual Box（v5.1）
