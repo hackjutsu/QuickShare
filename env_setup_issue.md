@@ -14,6 +14,20 @@ vagrant reload
 ![vagrant_login](https://cloud.githubusercontent.com/assets/7756581/24634889/170865fe-1885-11e7-80de-47e9471adae9.png)
 
 ## 常见问题
+### 报错姿势
+#### 不巧当的姿势❌
+- “跑不了”、“不能用”、“不行”、“还是不行”……
+- 模糊的电脑屏幕照片……
+
+#### 建议姿势
+- 操作系统：Windows还是macOS
+- 系统版本
+- Virtual Box 和 Vagrant 版本
+- 执行到哪一步？
+  - expected behaviors
+  - actual behaviors
+  - logs (screenshots, not photos)
+  
 ### 从Virtual Box中打开虚拟机出错？
 
 ### VM not created
