@@ -14,12 +14,16 @@ vagrant reload
 ![vagrant_login](https://cloud.githubusercontent.com/assets/7756581/24634889/170865fe-1885-11e7-80de-47e9471adae9.png)
 
 ## 常见问题
-### 1. 从Virtual Box中打开虚拟机出错？
+### 从Virtual Box中打开虚拟机出错？
 
-### 2. 图形界面不出来
+### VM not created
 
-### 3. cannot access '/root/Development/'
+### 图形界面不出来
 
-### 4. 在哪里安装IntelliJ？
+### cannot access '/root/Development/'
 
-### 5. [Windows] requested address is not valid
+### 在哪里安装IntelliJ？
+
+### [Windows] requested address is not valid
+
+### [Windows] network inteface 没有选项
