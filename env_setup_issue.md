@@ -12,3 +12,14 @@ vagrant reload
 ```
 一切顺利的话，我们会看到下面的登录界面
 ![vagrant_login](https://cloud.githubusercontent.com/assets/7756581/24634889/170865fe-1885-11e7-80de-47e9471adae9.png)
+
+## 常见问题
+### 1. 从Virtual Box中打开虚拟机出错？
+
+### 2. 图形界面不出来
+
+### 3. cannot access '/root/Development/'
+
+### 4. 在哪里安装IntelliJ？
+
+### 5. [Windows] requested address is not valid
