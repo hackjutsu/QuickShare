@@ -49,5 +49,5 @@ vagrant reload
 ### [Windows] requested address is not valid
 - https://github.com/BitTigerInst/BitTiger-CS504-FAQ/issues/2
 
-### [Windows] network interface 没有选项
-- 安装最新版Virtual Box（v5.1）
+### [Windows] Which interface should the network bridge to?
+- 如果没有出现选项，安装最新版Virtual Box（v5.1）
