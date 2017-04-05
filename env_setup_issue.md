@@ -15,19 +15,22 @@ vagrant reload
 
 ## 常见问题
 ### 报错姿势
-#### 不巧当的姿势❌
+#### 不巧当的姿势 ❌
 - “跑不了”、“不能用”、“不行”、“还是不行”……
 - 模糊的电脑屏幕照片……
 
-#### 建议姿势
+#### 建议姿势 ✔️
 - 操作系统：Windows还是macOS
 - 系统版本
 - Virtual Box 和 Vagrant 版本
 - 执行到哪一步？
   - expected behaviors
   - actual behaviors
-  - logs (screenshots, not photos)
-  
+  - logs (screenshots, not photos)
+
+#### 善用Google + StackOverflow + GitHub issue
+- [CS504专用GitHub Issue](https://github.com/BitTigerInst/BitTiger-CS504-FAQ/issues)
+
 ### 从Virtual Box中打开虚拟机出错？
 
 ### VM not created
